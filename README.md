@@ -1,4 +1,4 @@
-# 6月23日|最高速度18.6M/S，2025最新Singbox节点/Shadowrocket节点/Clash节点/SSR节点/V2ray节点免费节点高速订阅机场  更新时间 2026-06-23 08:57:19
+# 6月30日|最高速度18.2M/S，2025最新SSR节点/Shadowrocket节点/Clash节点/V2ray节点/Singbox节点免费节点高速订阅机场  更新时间 2026-06-30 08:18:28
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://v2rayandroid.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://v2rayandroid.github.io/uploads/2026/06/0-20260623.yaml
-- https://v2rayandroid.github.io/uploads/2026/06/1-20260623.yaml
-- https://v2rayandroid.github.io/uploads/2026/06/2-20260623.yaml
-- https://v2rayandroid.github.io/uploads/2026/06/3-20260623.yaml
-- https://v2rayandroid.github.io/uploads/2026/06/4-20260623.yaml
+- https://v2rayandroid.github.io/uploads/2026/06/0-20260630.yaml
+- https://v2rayandroid.github.io/uploads/2026/06/1-20260630.yaml
+- https://v2rayandroid.github.io/uploads/2026/06/2-20260630.yaml
+- https://v2rayandroid.github.io/uploads/2026/06/3-20260630.yaml
+- https://v2rayandroid.github.io/uploads/2026/06/4-20260630.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://v2rayandroid.github.io/uploads/2026/06/0-20260623.txt
-- https://v2rayandroid.github.io/uploads/2026/06/1-20260623.txt
-- https://v2rayandroid.github.io/uploads/2026/06/2-20260623.txt
-- https://v2rayandroid.github.io/uploads/2026/06/3-20260623.txt
-- https://v2rayandroid.github.io/uploads/2026/06/4-20260623.txt
+- https://v2rayandroid.github.io/uploads/2026/06/0-20260630.txt
+- https://v2rayandroid.github.io/uploads/2026/06/1-20260630.txt
+- https://v2rayandroid.github.io/uploads/2026/06/2-20260630.txt
+- https://v2rayandroid.github.io/uploads/2026/06/3-20260630.txt
+- https://v2rayandroid.github.io/uploads/2026/06/4-20260630.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://v2rayandroid.github.io/uploads/2026/06/20260623.json
+- https://v2rayandroid.github.io/uploads/2026/06/20260630.json
 
 ## 更多Clash节点订阅 ：
 
